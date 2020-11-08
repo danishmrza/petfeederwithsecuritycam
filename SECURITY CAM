@@ -1,7 +1,7 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //SECURITY CAM CODE by DANISH MIRZA & SAIFUL HARRIS
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+//SuperVisor Encik King Diaw A/L Eh Sut
 //CODE
 #include "esp_camera.h"
 #include "SPI.h"
